@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+.dhx_cal_light_rec.dhx_cal_light_wide {
+    width: 600px;
+}
+
+.dhx_repeat_right label:nth-child(3) {
+    width: auto !important;
+}
